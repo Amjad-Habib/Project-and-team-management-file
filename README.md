@@ -1,5 +1,5 @@
 # Project-and-team-management-file
-#### This repository is about creating a project sheet for task and team management. Here is a list of the main themes:
+### This repository is about creating a project sheet for task and team management. Here is a list of the main themes:
 
 
 **1-Group organizational structure.**
